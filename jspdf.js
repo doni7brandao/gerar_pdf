@@ -14,4 +14,4 @@ $('#cmd').click(function () {
     doc.save('sample-file.pdf');
 });
 
-// This code is collected but useful, click below to jsfiddle link.
+// Este código foi copiado de https://scotch.io/@nagasaiaytha/generate-pdf-from-html-using-jquery-and-jspdf.
